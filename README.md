@@ -1,14 +1,4 @@
-# webpack ES6 startkit
-
-A small project that shows how to use webpack for client-side development in ECMAScript 6(ES2015).
-
-## Installation
-
-* Install [node](https://nodejs.org)
-* run `npm install` or `npm i`
-
-## Usage
-
-* `npm start` and open `http://localhost:3000` in a browser.(now will auto open the browser)
-* Modify or add files in `src` folder. `index.js` is the entry point.
-* `npm run build` to compile ./src file to ./build.
+## redux实例学习1
+redux不是只能在react应用中使用，所以redux的第一个例子是一个简单的js应用。
+本使用了用于写ES6用的脚手架webpack-es6-startkit，不用安装React。
+详细请参考https://www.imooc.com/article/16065
